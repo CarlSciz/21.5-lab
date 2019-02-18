@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mileage
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: carlscozzari
+Implementation-Vendor-Id: co.grandcircus
+Build-Jdk: 1.8.0_25
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mileage
+Created-By: Maven Integration for Eclipse
+
